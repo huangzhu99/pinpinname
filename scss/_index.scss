@@ -1,0 +1,31 @@
+.bg-gray {
+    background-color: #e8e8db;
+}
+.bg-gray-700 {
+    background-color: #494846 !important;
+}
+.square-3 {
+    width: 30px !important;
+    height: 30px !important;
+    line-height: 30px !important;
+}
+.fs-lg-5 {
+    font-size: 1.25rem !important;
+}
+.fw-bolder {
+    font-weight: 700 !important;
+}
+
+.fs-4 {
+    font-size: 1.5rem !important;
+}
+.h-100vh-nav {
+    height: calc(100vh - 82px);
+}
+.top-nav {
+    top: 82px;
+}
+
+a{
+    text-decoration: none;
+}

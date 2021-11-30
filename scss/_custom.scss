@@ -1,0 +1,22 @@
+
+$h1-font-size:                24px !default;
+
+$font-sizes-mobile: (
+  mobile-1: 24px,
+  mobile-2: 20px,
+  mobile-3: 18px,
+  mobile-4: 16px,
+  mobile-5: 14px,
+  mobile-6: 12px,
+) !default;
+// $utilities: () !default;
+// $utilities: map-merge(
+//   (
+//     "font-size-mobile": (
+//       property: font-size,
+//       class: fs,
+//       values: $font-sizes-mobile,
+//     ),
+//   ),
+//   $utilities
+// );
